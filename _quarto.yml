@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nov25blog"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+      - href: research.qmd
+        text: Research
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: Quartz
+    css: styles.css
+
+editor: visual
+
+execute: 
+  freeze: auto
+

@@ -1,0 +1,19 @@
+---
+title: "Uththami Kukathasan"
+image: bewear.png
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/uththami.k/
+    - icon: github
+      text: Github
+      href: https://github.com/uththami
+---
+
+## Education
+
+University of Toronto \| MSc in Biostatistics \| September 2024 - August 2025
+
+University of Guelph \| BSc in Biomedical Sciences \| September 2020 - April 2024
